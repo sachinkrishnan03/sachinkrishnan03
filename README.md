@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Yadav
 - 👀 I’m interested in fullstack development and UI/UX
-- 🌱 I’m currently learning java,html,css
+- 🌱 I’m currently learning Java, Html, CSS
 - 💞️ I’m looking to collaborate on front end as well as back end
 - 📫 How to reach me 
 
